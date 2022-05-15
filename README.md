@@ -21,5 +21,5 @@ Objetivo: Calcular la suma de la serie 1/1 + 1/2 + 1/3+... + 1/N donde N es un n
 <br>
 <br>
 <p>Breve descripción: 
-Este programa es uno que calcula la suma de N primeros números enteros, mediante el uso del “While”, señalando que número es el que debemos repetir.
+Este programa que suma de la serie 1/1 + 1/2 + 1/3+... + 1/N donde N es un número que se introduce por teclado. 
 </p>
