@@ -1,8 +1,8 @@
 # prog_est_tarea3.1
-<p>Autor: Andriks Imanol Ruiz Martínez, Fecha: 17/02/2022 <br>
-Escuela: Universidad del Valle de Mexico Campus Villahermosa <br>
-Materia: Programación Estructurada <br>
-Ciclo: 01/2022</p>
+<p><b>Autor:</b> Andriks Imanol Ruiz Martínez, <b>Fecha:</b> 17/02/2022 <br>
+  <b>Escuela:</b> Universidad del Valle de Mexico <b>Campus</b> Villahermosa <br>
+  <b>Materia:</b> Programación Estructurada <br>
+<b>Ciclo:>/b> 01/2022</p>
 <br>
 <p>Este es un programa de ciclos en Lenguaje C de la materia de Programación Estructurada<br>
 Muestra el uso de:
@@ -17,9 +17,9 @@ Muestra el uso de:
     </ul>
     </p>
 <br>
-Objetivo: Calcular la suma de la serie 1/1 + 1/2 + 1/3+... + 1/N donde N es un número que se introduce por teclado.
+<b>Objetivo:></b> Calcular la suma de la serie 1/1 + 1/2 + 1/3+... + 1/N donde N es un número que se introduce por teclado.
 <br>
 <br>
-<p>Breve descripción: 
+  <p><b>Breve descripción:</b> 
 Este programa que suma de la serie 1/1 + 1/2 + 1/3+... + 1/N donde N es un número que se introduce por teclado. 
 </p>
