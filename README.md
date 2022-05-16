@@ -17,7 +17,7 @@ Muestra el uso de:
     </ul>
     </p>
 <br>
-<b>Objetivo:></b> Calcular la suma de la serie 1/1 + 1/2 + 1/3+... + 1/N donde N es un número que se introduce por teclado.
+<b>Objetivo:</b> Calcular la suma de la serie 1/1 + 1/2 + 1/3+... + 1/N donde N es un número que se introduce por teclado.
 <br>
 <br>
   <p><b>Breve descripción:</b> 
