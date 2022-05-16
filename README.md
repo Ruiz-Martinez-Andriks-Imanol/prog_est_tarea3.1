@@ -2,7 +2,7 @@
 <p><b>Autor:</b> Andriks Imanol Ruiz Martínez, <b>Fecha:</b> 17/02/2022 <br>
   <b>Escuela:</b> Universidad del Valle de Mexico <b>Campus</b> Villahermosa <br>
   <b>Materia:</b> Programación Estructurada <br>
-<b>Ciclo:>/b> 01/2022</p>
+<b>Ciclo:></b> 01/2022</p>
 <br>
 <p>Este es un programa de ciclos en Lenguaje C de la materia de Programación Estructurada<br>
 Muestra el uso de:
